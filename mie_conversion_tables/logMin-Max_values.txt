@@ -1,0 +1,13 @@
+The log min and log max values change depending on the mie conversion table being used.
+The log min and max values are the log of the amplitudes corresponding to 120 nm and 3000nm. The range is dependent on the ability of the POPS.
+
+Scripps Pier:
+1) logmin = 0.871
+2) logmax = 4.067
+
+Chestnut Ridge (Oakridge National lab
+1) logmin = 1.576
+2) logmax = 4.581
+
+
+### The headers for the mie tables need to be consistent! d_nm and amp_scale

@@ -1,0 +1,12 @@
+Using default Skip_Save of 0.
+Using default Maximum number of particles of 27000.
+Using default Maximum Jitter Time of 0.100 seconds.
+20230707T002705	Started program.
+	Initialized the MAX5802.
+
+	Initialized the MS5607.
+	UART1 opened.
+	UART2 opened.
+Cannot bind rec socket.	UDP sockets opened.
+	PRUs initialized.
+	PRU1 and PRU0 are now running.
